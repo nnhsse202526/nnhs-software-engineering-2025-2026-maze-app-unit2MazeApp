@@ -1,0 +1,15 @@
+{
+    "java.test.config": [
+        {
+            "name": "default",
+            "workingDirectory": "${workspaceFolder}"
+        }
+    ],
+    "cSpell.words": [
+        "CSCI",
+        "gcschmit",
+        "Geoff",
+        "Kuperman",
+        "worklist"
+    ]
+}
